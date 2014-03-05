@@ -1,0 +1,1 @@
+Week 2: Initiated the research and learning of Strace - a bash command to log process activities
