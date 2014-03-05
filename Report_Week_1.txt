@@ -1,0 +1,6 @@
+Week 1: Session by Bobby Roy on the project idea
+        Read the reference papers
+            [1] Ya-Yunn Su, Mona Attariyan, Jason Flinn, 2007, Improving storage system availability with D-
+                GRAID
+            [2] Muthian Sivathanu, Vijayan Prabhakaran, Andrea C. Arpaci-Dusseau, Remzi H. Arpaci-Dusseau, 
+                AutoBash: improving configuration management with operating system causality analysis
