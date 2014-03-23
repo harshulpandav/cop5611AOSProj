@@ -1,0 +1,11 @@
+Read and Reviewed the following research paper to bolster the implementation of the scope of the project.
+
+2010 IEEE 26th Symposium on Mass Storage Systems and Technologies
+S2-RAID: A new RAID architecture for fast data recovery
+Incline Village, NV, USA
+May 03-May 07
+ISBN: 978-1-4244-7152-2
+Jiguang Wan, Dept. of Computer Science, Huazhong University of Science and Technology, China
+Jibin Wang, Dept. of Computer Science, Huazhong University of Science and Technology, China
+Qing Yang, Dept. of Electrical, Computer, and Biomedical Engineering University of Rhode Island, Kingston, RI, 02881, USA
+Changsheng Xie, Dept. of Computer Science, Huazhong University of Science and Technology, China
