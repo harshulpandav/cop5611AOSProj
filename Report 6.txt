@@ -1,0 +1,14 @@
+created a shell script to get a strace for all the process running currently on the system.
+
+sudo ps -eo pid,command | grep -v grep | awk '{print $1}' > pids.txt
+
+filename="$1"
+while read -r line
+do
+#if [ $line == "PID" ]; then echo 1
+#if [ $line >= 1500]; then
+ name="$name -p $line "
+#fi
+done < "$filename"
+#echo $name
+sudo strace $name -o output5.txt
