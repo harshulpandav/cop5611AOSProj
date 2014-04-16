@@ -1,0 +1,13 @@
+sudo ps -eo pid,command | grep -v grep | awk '{print $1}' > pids.txt
+
+#program.sh
+filename="$1"
+while read -r line
+do
+chmod +x straceProgram.sh
+./straceProgram.sh $line &
+done < "$filename"
+
+#straceProgram.sh
+pid="$1"
+sudo strace -p $pid -o log.$pid
